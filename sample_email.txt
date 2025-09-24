@@ -1,0 +1,19 @@
+
+From: support@sbi-secure-login.com
+Reply-To: no-reply@sbi-secure-login.com
+To: you@yourdomain.com
+Subject: URGENT: Immediate SBI Account Verification Required
+
+Dear SBI Customer,
+
+We have detected suspicious activity on your State Bank of India account. For your security and to prevent unauthorized transactions, please verify your identity immediately.
+
+Click the link below to verify your account and confirm recent transactions:
+Verify Now: https://sbi-secure-login.com/verify-account
+
+If you do not verify within 24 hours, your account will be temporarily suspended for your protection.
+
+Thank you for your prompt attention.
+
+Sincerely,  
+SBI Security Team
